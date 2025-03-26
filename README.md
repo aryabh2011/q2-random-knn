@@ -4,4 +4,4 @@ Quarter 2 Project for TJHSST ML, completed by Arya Bharath and James Wright. In 
 
 In this repository, our two folders are **deliverables** and **models**.
 **Deliverables** showcases our Q2 Project Final Report as well as our Presentation.
-**Models** contains the Python scripts that we coded for our project. 
+**Models** contains the Python scripts that we coded for our project. randomknn.py was our testing code for making a Random KNN classifier that works similar to Random Forest, and Q2project.py is our main Python file which houses the code we used to compare Random Forest to Random KNN. More information about our code can be found in our deliverables.
